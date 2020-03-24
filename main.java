@@ -3,11 +3,11 @@ public class main {
 		System.out.println("Hola mundo");
 	}
 
-	public static resta(int a, int b) {
+	public static int resta(int a, int b) {
 		return a - b;
 	}
 
-	public static suma(int a, int b) {
+	public static int suma(int a, int b) {
 		return a + b;
 	}
 }
