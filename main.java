@@ -6,4 +6,8 @@ public class main {
 	public static resta(int a, int b) {
 		return a - b;
 	}
+
+	public static suma(int a, int b) {
+		return a + b;
+	}
 }
